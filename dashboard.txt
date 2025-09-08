@@ -1,0 +1,6 @@
+Dashboard Design:
+
+- Sidebar with navigation links: Dashboard, Orders, Products, Customers, Analytics, Settings.
+- Main content area displaying widgets: Sales overview, Recent activity, Top products.
+- Header with user profile and notifications.
+- Responsive design for mobile and desktop.
